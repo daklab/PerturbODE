@@ -1,6 +1,6 @@
 # PerturbODE (ICML 2026)
 
-PerturbODE is an interpretable Neural ODE framework for joint perturbation prediction and causal gene regulatory network discovery from single-cell data. You can refer to our [preprint](https://arxiv.org/abs/2501.02409) or [ICML 2026 poster](https://icml.cc/virtual/2026/poster/61747) for more details.
+PerturbODE is an interpretable Neural ODE framework for joint genetic perturbation prediction and gene regulatory network discovery from single-cell perturbational data. You can refer to our [preprint](https://arxiv.org/abs/2501.02409) or [ICML 2026 poster](https://icml.cc/virtual/2026/poster/61747) for more details.
 
 ![PerturbODE main figure](/perturbode.png)
 
