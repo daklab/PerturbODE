@@ -8,7 +8,7 @@ Code with the TF Atlas experiment reproduction will be released soon.
 
 ## Contact
 
-- [Zaikang Lin](https://zaikanglin.com/): [zl3135@columbia.edu](mailto:zl3135@columbia.edu)   [zaikang.lin@helmholtz-munich.de](mailto:zaikang.lin@helmholtz-munich.de)
+- [Zaikang Lin](https://zaikanglin.com/): [zl3135@columbia.edu](mailto:zl3135@columbia.edu)  or [zaikang.lin@helmholtz-munich.de](mailto:zaikang.lin@helmholtz-munich.de)
 - [Sei Chang](https://seichang.me/): [shc2170@columbia.edu](mailto:shc2170@columbia.edu)
 - [Aaron Zweig](https://aaronzweig.github.io/): [az2888@columbia.edu](mailto:az2888@columbia.edu)
 - [David A. Knowles](https://daklab.github.io/): [dak2173@columbia.edu](mailto:dak2173@columbia.edu)
